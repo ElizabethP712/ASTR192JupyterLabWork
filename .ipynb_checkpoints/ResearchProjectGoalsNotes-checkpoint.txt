@@ -1,0 +1,15 @@
+What are my goals in research in general? 
+1. To learn something new that is applicable to the field, and to my own narrowing down of specific topics in the field of astronomy and physics that interest me.
+2. To collaborate with others on the project, and to always ask and come up with questions to ask about the field itself but also about how they have attained their knowledge and what that knowledge entails (for Andy and Tom, that includes more topic specific interests and graduate student trajectories), for Miguel and Emma that means how they got interested in Astronomy and how they have continued to pursue that interst today.
+
+What are my specific goals for the "Searching for Optical Lensing Signals of Elusive Black Holes" Project?
+1. Specifically I chose the project about Black Holes because I wanted to learn more ABOUT black holes (what they are, how they are formed, differences in them, etc.), as well as their imaging methodology (besides optical lensing, what else? Why optical lensing for this project).
+2. I was also hoping to get better at Python coding with an introduction into modeling/theory (i.e. how to plot, write functions, and understand what the code is doing), while also exploring the TESS database for new black holes. As it stands now, I am leaning more towards the observations side of things, but thhe creation of a self-lensing model also sounds fascinating so even if I don't create one on my own, I do want to communicate with my peers and see what they are able to create.
+3. Ultimately I want to come out of this project able to explain what black holes are, why it is important to find them (whether that be a personal reason or more applicable reason), and what I did to advance the field.
+
+What would you like from your mentors/mentorship in this project? What do you need for a positive experience during this project?
+1. Mentorship and establishing that relationship in this project is really important to me! After all, collaboration was an emphasized goal of mine above. But what does that mean? For now, I envision active discussions tthe two times we get to meet each week on black holes themselves and on our project progress. For me, it will probably also mean some Python coding assistance as well. 
+2. What might this collaboration look like? What can my mentors do to help create a welcoming environment? Well, the first thing is always active listening, a positive attitude, and a willingness to answer questions or even admit when they might not fully know the answer but provide resources to others that might. Sometimes my questions might not be as well articulated as I would want them to be too, but just speaking through it helps me formulate them, so patience is probably the other virtue I anticipate. 
+
+Any Additional Thoughts?
+1. I am excited, but still nervous about the timeline of the project. It would be nice to get a clearer picture of what is expected of me so that I can come up with a timeline for the project itself.
